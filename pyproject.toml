@@ -48,3 +48,4 @@ exclude = '''
 [tool.isort]
 # максимальная длина строки
 line_length = 119
+#
